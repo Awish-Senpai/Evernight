@@ -1,7 +1,7 @@
 {
     "name": "Evernight",
     "description": "A theme smilar to Glasscord, but with better colours and redefined animations.",
-    "version": "2.0.1",
+    "version": "1.0.1",
     "author": "Awish#6969",
     "theme": "index.css",
     "license": "MIT"
