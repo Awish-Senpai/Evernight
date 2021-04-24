@@ -210,22 +210,8 @@
     transition: background-color .15s ease-out;
     background-color: #30373a;
 }
-.theme-dark .closedFolderIconWrapper-2sTcE6 {
-    width: 48px;
-    height: 48px;
-    padding: 4px;
-    -webkit-box-sizing: border-box;
-    box-sizing: border-box;
-    display: grid;
-    background-color: #30373a;
-    grid-template: 1fr 1fr/1fr 1fr;
-    justify-items: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    align-items: center;
-}
 .theme-dark .closedFolderIconWrapper-2sTcE6:hover{
-    background-color: #4b565a;
+    background-color: #19202241;
 }
 .theme-dark .peopleList-3c4jOR {
     padding-bottom: 8px;
