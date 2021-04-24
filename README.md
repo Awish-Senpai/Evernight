@@ -6,7 +6,7 @@
 
 A dark-bluish Discord theme for Powercord users, which is both pleasing and smooth to your eyes!
 
-#### Evernight is especially made for those people who love Dark themes and like some bluish touch over it. Evernight mainly focuses on making the theme for every single user. The interesting thing about Evernight is that, it is a light weight theme, means it works smoothly on every device, let it be a low end device too!
+#### Evernight is especially made for those people who love Dark themes and like some bluish touch over it. Evernight mainly focuses on making the compatible theme for every single user. The interesting thing about Evernight is that, it is a light weight theme, meaning, it will work smoothly on every device, even if a device is low end!
 
 ## Installation
 Paste the following into command prompt:
