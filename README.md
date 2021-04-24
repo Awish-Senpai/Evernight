@@ -1,6 +1,7 @@
 
 ![preview](https://i.imgur.com/vtb36NB.png)
 
+##### The above banner was made all by me, using Figma. You can view the original file <a href="https://www.figma.com/file/ui2im43XE8frsJqKDQfA80/Evernight-Banner?node-id=0%3A1">by clicking here</a>.
 # Evernight
 
 A dark-bluish Discord theme for Powercord users, which is both pleasing and smooth to your eyes!
