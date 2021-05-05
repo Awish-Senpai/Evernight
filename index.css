@@ -57,7 +57,14 @@
     box-shadow: inset 2px 0 0 #70a0aa !important;
     border-radius: 0px;
 }
-
+.markup-2BOw-j blockquote, .markup-2BOw-j pre {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    max-width: 100%;
+}
+.theme-dark .mentioned-xhSam7 .mention.interactive:hover, .theme-light .mentioned-xhSam7 .mention.interactive:hover{
+    color: #1ea1dd;
+}
 .winButton-iRh8-Z{
     transition: all 0.2s;
     width: 44px !important;
