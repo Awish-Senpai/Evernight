@@ -38,3 +38,5 @@ Switch to your themes folder like so.
 ### [v1.0.1]  
 • Initial release.  
 • Changed the color of the closed folders to be the color set by the user.  
+• Made the chat bubble to utilise the full space.  
+• Changed the color of the mention when hovered.  
